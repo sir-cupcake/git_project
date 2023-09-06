@@ -954,8 +954,12 @@ SceneRoots:
   - {fileID: 1557090941}
   - {fileID: 778387171}
   - {fileID: 602764527}
+<<<<<<< HEAD
 <<<<<<< HEAD:4GD/Assets/Scenes/Level.unity
   - {fileID: 800758331}
 =======
   - {fileID: 1691146651}
 >>>>>>> parent of 416d717 (New first commit like good old days):4GD/Assets/Scenes/LevelVasilev.unity
+=======
+  - {fileID: 1691146651}
+>>>>>>> parent of 416d717 (New first commit like good old days)
